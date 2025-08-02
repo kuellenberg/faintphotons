@@ -1,0 +1,17 @@
+body.home .main {
+    background-image: url("/images/cr399.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body.home .main .home-info {
+    background: rgba(0, 0, 0, 0.5); /* Abdunklung */
+    padding: 2rem;
+    border-radius: 1rem;
+    color: #fff;
+}
