@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Faint Photons</title>
-    <link>https://example.org/</link>
+    <link>https:/faintphotons.com/</link>
     <description>Recent content on Faint Photons</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https:/faintphotons.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sadr &amp; Crescent</title>
-      <link>https://example.org/gallery/sadr/</link>
+      <link>https:/faintphotons.com/gallery/sadr/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/gallery/sadr/</guid>
+      <guid>https:/faintphotons.com/gallery/sadr/</guid>
       <description>&lt;p&gt;Ein besonders stiller Abend unter einem halbmondhellen Himmel.&lt;br&gt;
 Hasi schnupperte kurz am Tubus und nickte. Ich wusste: Heute wird’s was.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Sadr Region&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/images/IC434.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Sadr Region&#34; loading=&#34;lazy&#34; src=&#34;https:/faintphotons.com/images/IC434.jpg&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;76×120s mit dem Tak Epsilon 130D, Canon 6Da, IDAS NBZ II.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>

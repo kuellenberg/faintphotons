@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https:/faintphotons.com/blog/</loc>
     <lastmod>2025-08-02T17:04:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https:/faintphotons.com/</loc>
     <lastmod>2025-08-02T17:04:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/gallery/</loc>
+    <loc>https:/faintphotons.com/gallery/</loc>
     <lastmod>2025-08-02T17:03:35+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/canon-6da/</loc>
+    <loc>https:/faintphotons.com/tags/canon-6da/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/epsilon/</loc>
+    <loc>https:/faintphotons.com/tags/epsilon/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/gallery/sadr/</loc>
+    <loc>https:/faintphotons.com/gallery/sadr/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https:/faintphotons.com/tags/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/widefield/</loc>
+    <loc>https:/faintphotons.com/tags/widefield/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https:/faintphotons.com/categories/</loc>
   </url>
 </urlset>
