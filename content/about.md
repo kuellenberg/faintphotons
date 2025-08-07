@@ -1,14 +1,13 @@
 ---
-title: "Über faintphotons"
+title: "About Us"
 date: 2025-08-02
-draft: true
+draft: false
 cover:
   image: "/images/cr399.jpg"
 ---
 
-Willkommen bei *faintphotons*!  
-Diese Seite ist Hasis, Tobis und Ondres Reise durch das Universum gewidmet – in Bildern, Projekten und ganz viel Sternenstaub.
+Willkommen bei Faint Photons!
 
-Hier findest du unsere liebsten Astrofotos, kleine Geschichten und vielleicht sogar das ein oder andere geheime Möhrenrezept.
+Ich freue mich, dich auf meiner persönlichen Webseite begrüßen zu dürfen. Hier dreht sich alles um meine Leidenschaft für die Astrofotografie und das Erkunden des Nachthimmels. Mit jedem Bild versuche ich, das verborgene Licht des Universums einzufangen und die beeindruckende Schönheit der Sterne, Galaxien und Nebel zu enthüllen.
 
 🌌🐰🤖💫

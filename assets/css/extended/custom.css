@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'WireOne';
+  src: url('/fonts/WireOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FiraCode';
+  src: url('/fonts/FiraCode-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/MontserratAlternates-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RedditMono';
+  src: url('/fonts/RedditMono-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url('/fonts/IBMPlexSans-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.logo {
+  font-family: 'WireOne', sans-serif;
+}
+
+body, .post-content {
+  font-family: 'IBMPlexSans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'WireOne', sans-serif;
+  font-size: 3em !important
+}
+
+.faintfont {
+  font-family: 'WireOne', sans-serif;
+  letter-spacing: 0.05em;
+  font-size: 1.2em;
+  font-weight: bold;
+}

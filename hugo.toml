@@ -4,48 +4,50 @@ title = 'Faint Photons'
 theme = 'PaperMod'
 
 [params]
-    site_logo = true
-    defaultTheme = "auto"
-    ShowReadingTime = true
-    ShowCodeCopyButton = true
+site_logo = true
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowCodeCopyButton = true
 
-    homeBackground = "/images/cr399.jpg"
-    homeBackgroundOpacity = 0.7  # optional, wirkt leicht abgedunkelt
-    homeCoverHeight = "100vh"    # volle Bildschirmhöhe
+homeBackground = "/images/cr399.jpg"
+homeBackgroundOpacity = 0.7          # optional, wirkt leicht abgedunkelt
+homeCoverHeight = "100vh"            # volle Bildschirmhöhe
 
-    [params.label]
-    icon = "images/logo.svg"
-    iconHeight = 40  # optional, standardmäßig 30
+[params.label]
+icon = "images/logo.svg"
+iconHeight = 30          # optional, standardmäßig 30
 
-  [params.profileMode]
-    enabled = true
-    title = "faintphotons"
-    subtitle = "Astrofotografie aus der Eifel – mit Hasi, Tobi und einer Prise Sternenlicht"
-    imageUrl = "/images/cr399.jpg"  # oder dein CR399.jpg
-    imageTitle = "faintphotons logo"
-    imageWidth = 300
-    imageHeight = 300
-    buttons = [
-      { name = "Gallery", url = "/gallery" },
-      { name = "Blog", url = "/blog" },
-      { name = "About", url = "/about" }
-    ]
+[params.profileMode]
+enabled = true
+title = "Faint Photons"
+subtitle = "Astrofotografie aus der Eifel – mit Hasi, Ondre und einer Prise Sternenlicht"
+imageUrl = "/images/cr399.jpg" # oder dein CR399.jpg
+imageTitle = "faintphotons logo"
+imageWidth = 300
+imageHeight = 300
+buttons = [
+  { name = "Gallery", url = "/gallery" },
+  { name = "Blog", url = "/blog" },
+  { name = "About", url = "/about" },
+]
 
-  [[params.socialIcons]]
-    name = "GitHub"
-    url = "https://github.com/ondres-cool-astrozeugs"
+# [[params.socialIcons]]
+# name = "GitHub"
+# url = "https://github.com/ondres-cool-astrozeugs"
 
-  [[params.socialIcons]]
-    name = "PixInsight Forum"
-    url = "https://pixinsight.com/forum/members/ondre.1337/"
+# [[params.socialIcons]]
+# name = "PixInsight Forum"
+# url = "https://pixinsight.com/forum/members/ondre.1337/"
 
 [params.homeInfoParams]
-  Title = "faintphotons"
-  Content = "Willkommen auf meinem kleinen Astrofoto-Projekt. Sternenlicht aus der Eifel und darüber hinaus."
+Title = "faintphotons"
+Content = "Willkommen auf meinem kleinen Astrofoto-Projekt. Sternenlicht aus der Eifel und darüber hinaus."
 
 [markup]
-    [markup.highlight]
-        noClasses = false
+[markup.highlight]
+noClasses = false
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.main]]
 identifier = "about"
@@ -64,3 +66,9 @@ identifier = "blog"
 name = "Blog"
 url = "/blog/"
 weight = 3
+
+[[menu.main]]
+identifier = "zeitreise"
+name = "Zeitreise"
+url = "/zeitreise/"
+weight = 4
